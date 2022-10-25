@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/khangdc1/Documents/KhangDC/Execise3/main.cpp" "/home/khangdc1/Documents/KhangDC/Execise3/build/CMakeFiles/khangdc1.dir/main.cpp.o"
+  "/home/khangdc1/khang/ExeciseCPP/Execise3/main.cpp" "/home/khangdc1/khang/ExeciseCPP/Execise3/build/CMakeFiles/khangdc1.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -15,7 +15,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/khangdc1/Documents/KhangDC/Execise3/build/calc/CMakeFiles/calc.dir/DependInfo.cmake"
+  "/home/khangdc1/khang/ExeciseCPP/Execise3/build/calc/CMakeFiles/calc.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

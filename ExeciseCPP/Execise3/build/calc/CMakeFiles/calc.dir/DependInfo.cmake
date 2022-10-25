@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/khangdc1/Documents/KhangDC/Execise3/calc/calc.cpp" "/home/khangdc1/Documents/KhangDC/Execise3/build/calc/CMakeFiles/calc.dir/calc.cpp.o"
+  "/home/khangdc1/khang/ExeciseCPP/Execise3/calc/calc.cpp" "/home/khangdc1/khang/ExeciseCPP/Execise3/build/calc/CMakeFiles/calc.dir/calc.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
