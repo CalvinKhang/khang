@@ -1,0 +1,6 @@
+/home/khangdc1/Documents/KhangDC/Execise3/build/CMakeFiles/rebuild_cache.dir
+/home/khangdc1/Documents/KhangDC/Execise3/build/CMakeFiles/khangdc1.dir
+/home/khangdc1/Documents/KhangDC/Execise3/build/CMakeFiles/edit_cache.dir
+/home/khangdc1/Documents/KhangDC/Execise3/build/calc/CMakeFiles/rebuild_cache.dir
+/home/khangdc1/Documents/KhangDC/Execise3/build/calc/CMakeFiles/calc.dir
+/home/khangdc1/Documents/KhangDC/Execise3/build/calc/CMakeFiles/edit_cache.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/khangdc1/Documents/KhangDC/Execise3/calc/calc.cpp
+calc.hpp
+/home/khangdc1/Documents/KhangDC/Execise3/calc/calc.hpp
+
+/home/khangdc1/Documents/KhangDC/Execise3/calc/calc.hpp
+cmath
+-
+
