@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/runTests.dir/gtest.cpp.o -o runTests  /usr/lib/aarch64-linux-gnu/libgtest.a /usr/lib/aarch64-linux-gnu/libgtest_main.a -lpthread 

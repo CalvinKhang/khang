@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/khangdc1/khang/ExeciseCPP/Execise4/template/template.cpp
+template.hpp
+/home/khangdc1/khang/ExeciseCPP/Execise4/template/template.hpp
+
+/home/khangdc1/khang/ExeciseCPP/Execise4/template/template.hpp
+iostream
+-
+

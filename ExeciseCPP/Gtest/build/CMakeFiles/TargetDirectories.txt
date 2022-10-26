@@ -1,0 +1,3 @@
+/home/khangdc1/khang/ExeciseCPP/Gtest/build/CMakeFiles/rebuild_cache.dir
+/home/khangdc1/khang/ExeciseCPP/Gtest/build/CMakeFiles/edit_cache.dir
+/home/khangdc1/khang/ExeciseCPP/Gtest/build/CMakeFiles/runTests.dir

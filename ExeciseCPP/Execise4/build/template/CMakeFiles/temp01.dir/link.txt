@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtemp01.a CMakeFiles/temp01.dir/template.cpp.o
+/usr/bin/ranlib libtemp01.a

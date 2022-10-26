@@ -1,0 +1,7 @@
+/home/khangdc1/khang/ExeciseCPP/Execise4/build/CMakeFiles/rebuild_cache.dir
+/home/khangdc1/khang/ExeciseCPP/Execise4/build/CMakeFiles/runTests.dir
+/home/khangdc1/khang/ExeciseCPP/Execise4/build/CMakeFiles/edit_cache.dir
+/home/khangdc1/khang/ExeciseCPP/Execise4/build/CMakeFiles/khangdc1.dir
+/home/khangdc1/khang/ExeciseCPP/Execise4/build/template/CMakeFiles/rebuild_cache.dir
+/home/khangdc1/khang/ExeciseCPP/Execise4/build/template/CMakeFiles/edit_cache.dir
+/home/khangdc1/khang/ExeciseCPP/Execise4/build/template/CMakeFiles/temp01.dir
