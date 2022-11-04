@@ -1,0 +1,2 @@
+/usr/bin/ar qc libheader.a  CMakeFiles/header.dir/student.cpp.o CMakeFiles/header.dir/class.cpp.o
+/usr/bin/ranlib libheader.a
