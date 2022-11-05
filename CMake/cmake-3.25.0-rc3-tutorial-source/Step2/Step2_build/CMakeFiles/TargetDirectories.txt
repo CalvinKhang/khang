@@ -1,0 +1,6 @@
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step2/Step2_build/CMakeFiles/rebuild_cache.dir
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step2/Step2_build/CMakeFiles/edit_cache.dir
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step2/Step2_build/CMakeFiles/Tutorial.dir
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step2/Step2_build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step2/Step2_build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step2/Step2_build/MathFunctions/CMakeFiles/MathFunctions.dir
