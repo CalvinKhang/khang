@@ -5,6 +5,8 @@
 // include the generated table
 #include "Table.h"
 
+namespace mathfunctions {
+namespace detail {
 // a hack square root calculation using simple operations
 double mysqrt(double x)
 {
@@ -16,7 +18,7 @@ double mysqrt(double x)
   double result = x;
   if (x >= 1 && x < 10) {
     std::cout << "Use the table to help find an initial value " << std::endl;
-    result = sqrtTable[static_cast<int>(x)];
+    return sqrtTable[static_cast<int>(x)];
   }
 
   // do ten iterations
@@ -30,4 +32,6 @@ double mysqrt(double x)
   }
 
   return result;
+}
+}
 }
