@@ -1,0 +1,4 @@
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/lib/libMathFunctions.a
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/include/MathFunctions.h
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/bin/Tutorial
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/include/TutorialConfig.h

@@ -1,0 +1,2 @@
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step9/Step9_build/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/bin/Tutorial
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step9/Step9_build/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/include/TutorialConfig.h

@@ -3,6 +3,7 @@
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/list_install_components.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/rebuild_cache.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/test.dir
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/package_source.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/ContinuousSubmit.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/edit_cache.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/NightlyMemCheck.dir
@@ -27,6 +28,7 @@
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/NightlyStart.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/ExperimentalCoverage.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/ExperimentalStart.dir
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/package.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/NightlyBuild.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/ExperimentalBuild.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/ExperimentalUpdate.dir
@@ -35,11 +37,13 @@
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/Tutorial.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/CMakeFiles/ContinuousTest.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/MathFunctions/CMakeFiles/install/strip.dir
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/MathFunctions/CMakeFiles/test.dir
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/MathFunctions/CMakeFiles/package_source.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/MathFunctions/CMakeFiles/install.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/MathFunctions/CMakeFiles/list_install_components.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/MathFunctions/CMakeFiles/rebuild_cache.dir
-/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/MathFunctions/CMakeFiles/edit_cache.dir
-/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/MathFunctions/CMakeFiles/test.dir
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/MathFunctions/CMakeFiles/package.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/MathFunctions/CMakeFiles/MakeTable.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/MathFunctions/CMakeFiles/install/local.dir
 /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/MathFunctions/CMakeFiles/MathFunctions.dir
