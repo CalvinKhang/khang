@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20221106-1151-Experimental"
+	Name="khangdc-VirtualBox"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="khangdc-VirtualBox"
+	OSRelease="5.15.0-52-generic"
+	OSVersion="#58~20.04.1-Ubuntu SMP Thu Oct 13 13:09:46 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="24"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="5"
+	NumberOfPhysicalCPU="5"
+	TotalVirtualMemory="1873"
+	TotalPhysicalMemory="8070"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2295.69"
+	>
+	<Configure>
+		<StartDateTime>Nov 06 18:51 +07</StartDateTime>
+		<StartConfigureTime>1667735467</StartConfigureTime>
+		<ConfigureCommand>"/usr/bin/cmake" "/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step6"</ConfigureCommand>
+		<Log>-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step6/Step6_build
+</Log>
+		<ConfigureStatus>0</ConfigureStatus>
+		<EndDateTime>Nov 06 18:51 +07</EndDateTime>
+		<EndConfigureTime>1667735467</EndConfigureTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Configure>
+</Site>

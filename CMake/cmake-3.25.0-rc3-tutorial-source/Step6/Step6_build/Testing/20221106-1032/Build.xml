@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20221106-1032-Experimental"
+	Name="khangdc-VirtualBox"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="khangdc-VirtualBox"
+	OSRelease="5.15.0-52-generic"
+	OSVersion="#58~20.04.1-Ubuntu SMP Thu Oct 13 13:09:46 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="24"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="5"
+	NumberOfPhysicalCPU="5"
+	TotalVirtualMemory="1873"
+	TotalPhysicalMemory="8070"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2295.69"
+	>
+	<Build>
+		<StartDateTime>Nov 06 17:32 +07</StartDateTime>
+		<StartBuildTime>1667730755</StartBuildTime>
+		<BuildCommand>/usr/bin/cmake --build . --config "Debug"</BuildCommand>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Nov 06 17:32 +07</EndDateTime>
+		<EndBuildTime>1667730755</EndBuildTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Build>
+</Site>
