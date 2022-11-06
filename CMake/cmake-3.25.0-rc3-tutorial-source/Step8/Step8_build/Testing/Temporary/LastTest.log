@@ -1,0 +1,163 @@
+Start testing: Nov 06 20:00 +07
+----------------------------------------------------------
+Unable to find executable: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/Tutorial
+1/9 Testing: Runs
+1/9 Test: Runs
+Command: "" "25"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build
+"Runs" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Runs" end time: Nov 06 20:00 +07
+"Runs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/Tutorial
+2/9 Testing: Usage
+2/9 Test: Usage
+Command: ""
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build
+"Usage" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression not found. Regex=[Usage:.*number
+]
+"Usage" end time: Nov 06 20:00 +07
+"Usage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/Tutorial
+3/9 Testing: Comp4
+3/9 Test: Comp4
+Command: "" "4"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build
+"Comp4" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression not found. Regex=[4 is 2
+]
+"Comp4" end time: Nov 06 20:00 +07
+"Comp4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/Tutorial
+4/9 Testing: Comp9
+4/9 Test: Comp9
+Command: "" "9"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build
+"Comp9" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression not found. Regex=[9 is 3
+]
+"Comp9" end time: Nov 06 20:00 +07
+"Comp9" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/Tutorial
+5/9 Testing: Comp5
+5/9 Test: Comp5
+Command: "" "5"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build
+"Comp5" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression not found. Regex=[5 is 2.236
+]
+"Comp5" end time: Nov 06 20:00 +07
+"Comp5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/Tutorial
+6/9 Testing: Comp7
+6/9 Test: Comp7
+Command: "" "7"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build
+"Comp7" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression not found. Regex=[7 is 2.645
+]
+"Comp7" end time: Nov 06 20:00 +07
+"Comp7" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/Tutorial
+7/9 Testing: Comp25
+7/9 Test: Comp25
+Command: "" "25"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build
+"Comp25" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression not found. Regex=[25 is 5
+]
+"Comp25" end time: Nov 06 20:00 +07
+"Comp25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/Tutorial
+8/9 Testing: Comp-25
+8/9 Test: Comp-25
+Command: "" "-25"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build
+"Comp-25" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression not found. Regex=[-25 is (-nan|nan|0)
+]
+"Comp-25" end time: Nov 06 20:00 +07
+"Comp-25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build/Tutorial
+9/9 Testing: Comp0.0001
+9/9 Test: Comp0.0001
+Command: "" "0.0001"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step8/Step8_build
+"Comp0.0001" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression not found. Regex=[0.0001 is 0.01
+]
+"Comp0.0001" end time: Nov 06 20:00 +07
+"Comp0.0001" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 06 20:00 +07
