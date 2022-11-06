@@ -1,0 +1,253 @@
+Start testing: Nov 06 16:56 +07
+----------------------------------------------------------
+1/10 Testing: Runs
+1/10 Test: Runs
+Command: "/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build/Tutorial" "25"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build
+"Runs" start time: Nov 06 16:56 +07
+Output:
+----------------------------------------------------------
+Computing sqrt of 25 to be 13
+Computing sqrt of 25 to be 7.46154
+Computing sqrt of 25 to be 5.40603
+Computing sqrt of 25 to be 5.01525
+Computing sqrt of 25 to be 5.00002
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+The square root of 25 is 5
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Runs" end time: Nov 06 16:56 +07
+"Runs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/10 Testing: Usage
+2/10 Test: Usage
+Command: "/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build/Tutorial"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build
+"Usage" start time: Nov 06 16:56 +07
+Output:
+----------------------------------------------------------
+/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build/Tutorial Version 1.0
+Usage: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build/Tutorial number
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[Usage:.*number]
+"Usage" end time: Nov 06 16:56 +07
+"Usage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/10 Testing: StandardUse
+3/10 Test: StandardUse
+Command: "/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build/Tutorial" "4"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build
+"StandardUse" start time: Nov 06 16:56 +07
+Output:
+----------------------------------------------------------
+Computing sqrt of 4 to be 2.5
+Computing sqrt of 4 to be 2.05
+Computing sqrt of 4 to be 2.00061
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+The square root of 4 is 2
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[4 is 2]
+"StandardUse" end time: Nov 06 16:56 +07
+"StandardUse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/10 Testing: Mysqrt4
+4/10 Test: Mysqrt4
+Command: "/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build/Tutorial" "4"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build
+"Mysqrt4" start time: Nov 06 16:56 +07
+Output:
+----------------------------------------------------------
+Computing sqrt of 4 to be 2.5
+Computing sqrt of 4 to be 2.05
+Computing sqrt of 4 to be 2.00061
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+The square root of 4 is 2
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[4 is 2]
+"Mysqrt4" end time: Nov 06 16:56 +07
+"Mysqrt4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/10 Testing: Mysqrt9
+5/10 Test: Mysqrt9
+Command: "/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build/Tutorial" "9"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build
+"Mysqrt9" start time: Nov 06 16:56 +07
+Output:
+----------------------------------------------------------
+Computing sqrt of 9 to be 5
+Computing sqrt of 9 to be 3.4
+Computing sqrt of 9 to be 3.02353
+Computing sqrt of 9 to be 3.00009
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+The square root of 9 is 3
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[9 is 3]
+"Mysqrt9" end time: Nov 06 16:56 +07
+"Mysqrt9" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/10 Testing: Mysqrt5
+6/10 Test: Mysqrt5
+Command: "/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build/Tutorial" "5"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build
+"Mysqrt5" start time: Nov 06 16:56 +07
+Output:
+----------------------------------------------------------
+Computing sqrt of 5 to be 3
+Computing sqrt of 5 to be 2.33333
+Computing sqrt of 5 to be 2.2381
+Computing sqrt of 5 to be 2.23607
+Computing sqrt of 5 to be 2.23607
+Computing sqrt of 5 to be 2.23607
+Computing sqrt of 5 to be 2.23607
+Computing sqrt of 5 to be 2.23607
+Computing sqrt of 5 to be 2.23607
+Computing sqrt of 5 to be 2.23607
+The square root of 5 is 2.23607
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[5 is 2.236]
+"Mysqrt5" end time: Nov 06 16:56 +07
+"Mysqrt5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/10 Testing: Mysqrt7
+7/10 Test: Mysqrt7
+Command: "/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build/Tutorial" "7"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build
+"Mysqrt7" start time: Nov 06 16:56 +07
+Output:
+----------------------------------------------------------
+Computing sqrt of 7 to be 4
+Computing sqrt of 7 to be 2.875
+Computing sqrt of 7 to be 2.65489
+Computing sqrt of 7 to be 2.64577
+Computing sqrt of 7 to be 2.64575
+Computing sqrt of 7 to be 2.64575
+Computing sqrt of 7 to be 2.64575
+Computing sqrt of 7 to be 2.64575
+Computing sqrt of 7 to be 2.64575
+Computing sqrt of 7 to be 2.64575
+The square root of 7 is 2.64575
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[7 is 2.645]
+"Mysqrt7" end time: Nov 06 16:56 +07
+"Mysqrt7" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/10 Testing: Mysqrt25
+8/10 Test: Mysqrt25
+Command: "/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build/Tutorial" "25"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build
+"Mysqrt25" start time: Nov 06 16:56 +07
+Output:
+----------------------------------------------------------
+Computing sqrt of 25 to be 13
+Computing sqrt of 25 to be 7.46154
+Computing sqrt of 25 to be 5.40603
+Computing sqrt of 25 to be 5.01525
+Computing sqrt of 25 to be 5.00002
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+The square root of 25 is 5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[25 is 5]
+"Mysqrt25" end time: Nov 06 16:56 +07
+"Mysqrt25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/10 Testing: Mysqrt-25
+9/10 Test: Mysqrt-25
+Command: "/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build/Tutorial" "-25"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build
+"Mysqrt-25" start time: Nov 06 16:56 +07
+Output:
+----------------------------------------------------------
+The square root of -25 is 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[-25 is (-nan|nan|0)]
+"Mysqrt-25" end time: Nov 06 16:56 +07
+"Mysqrt-25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/10 Testing: Mysqrt0.0001
+10/10 Test: Mysqrt0.0001
+Command: "/home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build/Tutorial" "0.0001"
+Directory: /home/khangdc/khang/CMake/cmake-3.25.0-rc3-tutorial-source/Step5/Step5_build
+"Mysqrt0.0001" start time: Nov 06 16:56 +07
+Output:
+----------------------------------------------------------
+Computing sqrt of 0.0001 to be 0.50005
+Computing sqrt of 0.0001 to be 0.250125
+Computing sqrt of 0.0001 to be 0.125262
+Computing sqrt of 0.0001 to be 0.0630304
+Computing sqrt of 0.0001 to be 0.0323084
+Computing sqrt of 0.0001 to be 0.0177018
+Computing sqrt of 0.0001 to be 0.0116755
+Computing sqrt of 0.0001 to be 0.0101202
+Computing sqrt of 0.0001 to be 0.0100007
+Computing sqrt of 0.0001 to be 0.01
+The square root of 0.0001 is 0.01
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[0.0001 is 0.01]
+"Mysqrt0.0001" end time: Nov 06 16:56 +07
+"Mysqrt0.0001" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 06 16:56 +07
